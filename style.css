@@ -1,0 +1,168 @@
+body {
+	background-image: url(background1.jpg);
+	font-family: satisfy, sans-serif;
+	margin: 0;
+	backgound-size: cover;
+}
+.navbar h1 {
+	margin-top: 45px;
+	text-align: center;
+	color: white;
+	position: absolute;
+	top: 40px;
+	left: 27%;
+
+
+}
+h1 {
+	font-size: 45px;
+	font-family: satisfy;
+}
+.logo {
+	width: 200px;
+	margin-left: 45px;
+	margin-top: 20px;
+	
+}
+
+
+.satu {
+	width: 80%;
+	height: 200px;
+	box-sizing: border-box;
+	text-align: left;
+	background: transparent;
+	border-radius: 10px;
+	color: white;
+	display: inline-block;
+	margin-left: 78px;
+	padding: 30px 40px 40px 40px;
+	font-size: 25px;
+	margin-top: 90px;
+	box-shadow: 8px 8px 8px #2b2d42;
+	font-family: roboto;
+
+
+}
+
+.container .satu a {
+	color: salmon;
+	text-decoration: none;
+}
+.container .satu img {
+	height: 350px;
+	position: absolute;
+	left: 50%;
+	top: 165px;
+	
+}
+.dua, .tiga, .empat, .lima, .enam{
+	width: 80%;
+	height: 200px;
+	box-sizing: border-box;
+	text-align: left;
+	background: transparant;
+	border-radius: 10px;
+	color: white;
+	display: inline-block;
+	margin-left: 78px;
+	padding: 30px 40px 40px 40px;
+	font-size: 25px;
+	margin-top: 70px;
+	box-shadow: 8px 8px 8px #2b2d42;
+	font-family: roboto;
+}
+.dua a, .tiga a, .empat a, .lima a, .enam a {
+    color: salmon;
+	text-decoration: none;
+}
+.dua img, .tiga img, .empat img {
+	height: 350px;
+	position: absolute;
+	left: 50%;
+	margin-top: -100px;
+	padding-top: 40px;
+	
+}	 
+.dua img {
+	height: 300px;
+	top: 544px;
+
+}
+.tiga img {
+	height: 370px;
+	top: 743px;
+	left: 53%;
+}
+.empat img {
+	height: 440px;
+	top: 943px;
+	left: 47%;
+}
+.swiper-container {
+	height: 350px;
+
+}
+.swiper-wrapper {
+	align-items: center;
+
+}
+.swiper-slide {
+	width: 220px;
+	height: 250px;
+	border-radius: 10px;
+	padding-right: 10px;
+
+
+
+}
+.swiper-slide img {
+	width: 200px;
+	height: 250px;
+	border-radius: 10px;
+	margin-left: 30px;
+}
+.footer {
+	background: maroon;
+	height: 40px;
+
+}
+.footer p {
+	font-size: 30px;
+	color: salmon;
+
+}
+.footer p a {
+	text-decoration: none;
+	color: salmon;
+}
+
+
+.footer p a:hover {
+	font-size: 32px;
+	color: black;
+}
+.satu a:hover {
+	font-size: 27px;
+	color: maroon;
+}
+.dua a:hover {
+	font-size: 27px;
+	color: maroon;
+}
+.tiga a:hover {
+	font-size: 27px;
+	color: maroon;
+}
+.empat a:hover {
+	font-size: 27px;
+	color: maroon;
+}
+.lima a:hover {
+	font-size: 27px;
+	color: maroon;
+}
+.enam a:hover {
+	font-size: 27px;
+	color: maroon;
+}
